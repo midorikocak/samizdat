@@ -93,9 +93,9 @@ Yıl | **Özgür** | **Kısmen Özgür** | **Özgür Olmayan**
 
 Yine de bu olumlu eğilim, halihazırda zulüm koşulları altında yaşamlarını sürdüren çok sayıda insan tarafından benimsenmiştir. 2008 itibariyle, dünyadaki 6.68 milyonluk nüfusun %34'ü, "Özgür Olmayan"3 olarak belirtilen, olabildiğince kısıtlanmış siyasi hakların ve sivil özgürlüklerin olduğu ülkelerde yaşamaktadır. Özgür Olmayan kategorisindeki 42 ülke, askeri diktatörlüklerden (Burma'da olduğu gibi), geleneksel baskıcı monarşilerden (Suudi Arabistan ve Butan'da olduğu gibi), baskın siyasi partilerden (Çin ve Kuzey Kore'de olduğu gibi), yabancı işgalcilerden (Tibet ve Batı Sahara'da olduğu gibi) oluşan bir yelpaze tarafından yönetiliyor veya bir geçiş döneminde.
 
-2.Freedom House (Özgürlük Evi), Dünyada Özgürlük, [http://www.freedomhouse.org.](http://www.freedomhouse.org/)
+2. Freedom House (Özgürlük Evi), Dünyada Özgürlük, [http://www.freedomhouse.org.](http://www.freedomhouse.org/)
 
-3.Adı geçen eserde.
+3. Adı geçen eserde.
 
 Bugün birçok ülke hızlı bir ekonomik, siyasi ve sosyal değişim halindedir. Özgür ülkelerin sayısı son yıllarda artıyor olsa da, bu şekilde hızlı ve önemli değişiklikler yaşayan çoğu toplumun, farklı bir tarafa yönlenme ve yeni diktatörlük formları yaşamasına ilişkin büyük bir risk de mevcut. Askeri gruplar, iddialı bireyler, seçilmiş yetkililer ve doktriner siyasi partiler sürekli olarak onların isteklerini empoze etmeye çalışacaklar. Darbeler sıkça rastlanan durumlardır ve öyle olmaya devam edeceklerdir. Birçok insan, temel insani ve siyasi haklarından mahrum bırakılmaya devam edilecektir.
 
@@ -165,7 +165,7 @@ Güçlü, kendine güvenen bir kuvvet karşısında, akıllı stratejilerle, dis
 
 Üstteki görüşlerin belirttiği üzere, diktatörlükten doğan özgürlükler, insanların kendilerini özgürleştirme yetisine dayanmaktadır. Üstte belirtilmiş siyasi sonuçlara yönelik başarılı siyasi muhalefet veya şiddet içermeyen mücadele vakaları, kitlelerin kendilerini özgürleştirmek için kullanabilecekleri yöntemler olduğunu; fakat bu seçeneklerin henüz geliştirilmemiş olduğunu gösteriyor. Bu seçeneği, sonraki bölümlerde detayı olarak inceleyeceğiz. Bununla birlikte, görüşmeler konusunu diktatörlükleri ortadan kaldırmak adına bir yol olarak incelememiz gerek.
 
-4.Patrik Sarsfield OHegarty, Birlik Yönetimindeki İrlanda'nın Tarihçesi, 1880-1922 (Londra: Methuen, 1952), sayfa 490-491.
+4. Patrik Sarsfield OHegarty, Birlik Yönetimindeki İrlanda'nın Tarihçesi, 1880-1922 (Londra: Methuen, 1952), sayfa 490-491.
 
 **İKİ**
 
@@ -227,7 +227,7 @@ Eğer demokratlar baskıları durdurmak için direnç göstermeyi bırakmayı ka
 
 Temel konular söz konusu olduğunda önemli olan dirençtir, müzakere değil. Hemen hemen tüm durumlarda, direnç diktatörleri devre
 
-5.Krishnalal Shridharani, War Without Violence: A Study of Gandhis Method and Its Accomplishments (New York: Harcourt, Brace, 1939, ve yeni baskı New York ve Londra: Garland Publishing, 1972), p. 260. dışı bırakana kadar devam etmek zorundadır. Başarıya büyük çoğunlukla bir çözüm için müzakereyle değil fakat en uygun ve güçlü direnç araçlarının akıllıca kullanılması ile ulaşılabilir.
+5. Krishnalal Shridharani, War Without Violence: A Study of Gandhis Method and Its Accomplishments (New York: Harcourt, Brace, 1939, ve yeni baskı New York ve Londra: Garland Publishing, 1972), p. 260. dışı bırakana kadar devam etmek zorundadır. Başarıya büyük çoğunlukla bir çözüm için müzakereyle değil fakat en uygun ve güçlü direnç araçlarının akıllıca kullanılması ile ulaşılabilir.
 
 Daha sonra ayrıntılı olarak incelenmek üzere, savımız özgürlükleri için savaşanlar için siyasi karşı koyma veya şiddete başvurmayan çaba, bulunabilecek en güçlü araçlardır.
 
@@ -245,7 +245,7 @@ Yakın tarih diktatörlüklerin savunmasızlığını gösteriyor ve göreceli o
 
 Şiddetin her zaman hızlı bir çözüm olduğuna ve şiddet içermeyen bir çözümün uzun zaman aldığına dair eski önyargı, açık bir şekilde tamamen yanlıştır. Geri plandaki durumlar ve toplum bünyesindeki değişiklikler için çok fazla zaman gerekse de, bir diktatörlüğe karşı yapılan fiili savaş, şiddet içermeyen bir mücadele ile oldukça hızlı bir şekilde ortaya çıkar. Bir tarafta imha etme, diğer tarafta ise teslim olma şeklinde süregelen bir savaş için tek alternatif, görüşmeler yapmak değildir. Üstte bahsedilen ve Birinci Bölüm›de yer alan örnekler, barış ve özgürlük isteyenlerin için farklı bir seçenek olduğunu gösteriyor: Siyasi başkaldırı.
 
-6.Aristo, *Siyaset,* çeviren T. A. Sinclair (Harmondsworth, Middlesex, İngiltere ve Baltimore, Maryland: Penguin Books 1976 \[1962\]), Book V, Chapter 12, syf. 231 ve232.
+6. Aristo, *Siyaset,* çeviren T. A. Sinclair (Harmondsworth, Middlesex, İngiltere ve Baltimore, Maryland: Penguin Books 1976 \[1962\]), Book V, Chapter 12, syf. 231 ve232.
 
 **ÜÇ**
 
@@ -264,13 +264,7 @@ Chu adlı feodal devlette, yaşlı bir adam maymunları emrinde tutarak hayatta 
 
 Yaşlı adam, her sabah maymunları bahçesinde toplar ve en yaşlı olanına liderlik yapmasını ve diğerlerini çalılardan ve ağaçlardan meyveler toplamak için dağa götürmesini emrederdi. Her maymunun topladığı meyvelerin onda birini yaşlı adama vermesi kural idi. Vermeyenler, acımasızca dövülürdü. Tüm maymunlar şiddetli şekilde acı çekiyorlar, fakat şikayet etmeye cesaret edemiyorlardı.
 
-7.Orjinal adı Rule By Tricks, yani Hilelerle Yönetmek olan bu hikaye Yu-li-zi'ye aittir ve Liu Ji tarafından aktarılmıştır (1311-1375) ve Sidney Tai tarafından tercüme edilmiştir, her hakkı saklıdır. Yu-li-zi aynı zamanda Liu Ji'nin takma adıdır. Tercümesi ilk olarak ''Şiddetsiz Yaptırımlar : Albert Einstein Enstitüsünden Haberler, (Cambridge, Kitle) Vol. IV, No.3 (Kış sayısı, 19921993), s.3'' te yayınlamıştır. 3 (Kış sayısı 1992-1993), s.3. Bir gün, küçük bir maymun diğerlerine sorar : Çalılık ve ağaçlardaki tüm meyveleri yaşlı adam mı dikti ? Diğerleri yanıtlar : Hayır, onlar doğal olarak yetişir. Küçük maymun tekrar sorar : Meyveleri yaşlı adamın izni olmadan toplayabilir miyiz? Diğerleri yanıtlar
-
-: Evet, yapabiliriz. Küçük maymun devam eder : O halde, neden yaşlı adama bağımlıyız, neden ona hizmet ediyoruz?
-
-Küçük maymun henüz cümlesini bitirmeden, tüm maymunlar aniden aydınlandı ve uyandılar.
-
-Aynı gece, maymunlar yaşlı adamın uyuduğunu gördükten sonra, içinde tutuldukları kampın tüm çitlerini yıktılar ve kampı tamamen yok ettiler. Ayrıca, yaşlı adamın deposundaki meyveleri alarak kayıplara karıştılar ve bir daha da dönmediler. Yaşlı adam sonunda açlıktan öldü.
+7. Orjinal adı Rule By Tricks, yani Hilelerle Yönetmek olan bu hikaye Yu-li-zi'ye aittir ve Liu Ji tarafından aktarılmıştır (1311-1375) ve Sidney Tai tarafından tercüme edilmiştir, her hakkı saklıdır. Yu-li-zi aynı zamanda Liu Ji'nin takma adıdır. Tercümesi ilk olarak ''Şiddetsiz Yaptırımlar : Albert Einstein Enstitüsünden Haberler, (Cambridge, Kitle) Vol. IV, No.3 (Kış sayısı, 19921993), s.3'' te yayınlamıştır. 3 (Kış sayısı 1992-1993), s.3. Bir gün, küçük bir maymun diğerlerine sorar : Çalılık ve ağaçlardaki tüm meyveleri yaşlı adam mı dikti ? Diğerleri yanıtlar : Hayır, onlar doğal olarak yetişir. Küçük maymun tekrar sorar : Meyveleri yaşlı adamın izni olmadan toplayabilir miyiz? Diğerleri yanıtlar : Evet, yapabiliriz. Küçük maymun devam eder : O halde, neden yaşlı adama bağımlıyız, neden ona hizmet ediyoruz? Küçük maymun henüz cümlesini bitirmeden, tüm maymunlar aniden aydınlandı ve uyandılar. Aynı gece, maymunlar yaşlı adamın uyuduğunu gördükten sonra, içinde tutuldukları kampın tüm çitlerini yıktılar ve kampı tamamen yok ettiler. Ayrıca, yaşlı adamın deposundaki meyveleri alarak kayıplara karıştılar ve bir daha da dönmediler. Yaşlı adam sonunda açlıktan öldü.
 
 Yu-li-zi der ki, dünyadaki bazı insanlar halklarını adil ilkelerle değil, hilelerle yönetirler. Onlar da aynen maymunların efendisi gibi değil midirler? Onlar sersemliklerinin farkında değildirler. Halkları aydınlandığında, onların hileleri artık işe yaramayacaktır.
 
@@ -308,7 +302,7 @@ Totaliter yönetim, ancak çok sık kullanılmak zorunda kalmazsa güçlüdür. 
 
 19\. yüzyıl İngiliz hukuk teorisyeni John Austin, hoşnutsuz bir halkla karşı karşıya olan bir diktatörün durumunu anlatmaktadır. Austin'e göre, halkın çoğunluğu hükümeti ortadan kaldırmaya kararlıysa ve bu durumda karşılaşacakları baskıya dayanmaya azimliyse, o taktir-
 
-8.Karl W. Deutsch, Cracks in the Monolith, in Carl J. Friedrich, ed., Totalitarianism (Cambridge, Mass.: Harvard University Press, 1954), pp. 313-314.
+8. Karl W. Deutsch, Cracks in the Monolith, in Carl J. Friedrich, ed., Totalitarianism (Cambridge, Mass.: Harvard University Press, 1954), pp. 313-314.
 
 de hükümetin kudreti ve onu destekleyenler dış yardım alsalar bile nefret edilen iktidarlarını sürdüremezler. Austin'e göre, isyan eden halkı daimi itaate ve bağlılığa geri döndürmek mümkün değildir.9
 
@@ -320,7 +314,7 @@ Bu tür bilgilerin pratikteki örnekleri arasında Norveç'li direnişçilerin N
 
 Bu nedenle, bir iktidarın gücünün ne ölçüde kontrol edileceği veya edilemeyeceğini belirlemenin en önemli üç faktörü şunlardır : 1halkın hükümetin gücünü sınırlama konusundaki göreceli arzusu; 2halkın, bağımsız kurum ve kuruluşların güç kaynaklarını ortaklaşa geri çekmeleri konusundaki göreceli güçleri; ve 3toplumun rıza ve desteğini esirgeme konusundaki göreceli yeteneği.
 
-9.John Austin, Lectures on Jurisprudence or the Philosophy of Positive Law (Beşinci baskı, Robert Campbell tarafından revize ve kontrol, 2 vol., London: John Murray, 1911 \[1861\]), Vol. I, p. 296.
+9. John Austin, Lectures on Jurisprudence or the Philosophy of Positive Law (Beşinci baskı, Robert Campbell tarafından revize ve kontrol, 2 vol., London: John Murray, 1911 \[1861\]), Vol. I, p. 296.
 
 10. Niccolo Machiavelli, The Discourses on the First Ten Books of Livy, in The Discourses of Niccolo Machiavelli (London: Routledge and Kegan Paul, 1950), Vol. I, p. 254.
 
@@ -367,21 +361,21 @@ Aynı ilke, acımasız diktatörlükler için de geçerlidir. Onlar da, işgal e
 
 Diktatörlüklerin zaafları arasında aşağıdakiler bulunmaktadır:
 
-1.Sistemin işlemesi için gerekli olan çok sayıda kişi, grup ve kurumların sınırlandırılması veya geri çekilmesi.
+1. Sistemin işlemesi için gerekli olan çok sayıda kişi, grup ve kurumların sınırlandırılması veya geri çekilmesi.
 
-2.Rejimin geçmişte uyguladığı politikaların etkileri ve ihtiyaçları, rejimin bugün çelişkili politikalar benimseme ve uygulama imkanını oldukça sınırlandıracaktır.
+2. Rejimin geçmişte uyguladığı politikaların etkileri ve ihtiyaçları, rejimin bugün çelişkili politikalar benimseme ve uygulama imkanını oldukça sınırlandıracaktır.
 
-3.Sistem işleyiş bakımından rutin ve yeni durumlara hızla adapte olma konusunda daha az yetenekli hale gelebilir.
+3. Sistem işleyiş bakımından rutin ve yeni durumlara hızla adapte olma konusunda daha az yetenekli hale gelebilir.
 
-4.Mevcut görevler için tahsis edilmiş olan personel ve kaynakların yeni ihtiyaçlara tahsisi kolay olmayacaktır.
+4. Mevcut görevler için tahsis edilmiş olan personel ve kaynakların yeni ihtiyaçlara tahsisi kolay olmayacaktır.
 
-5.Yöneticilerinden memnun olmayan astlar diktatörlüklere doğru ve yeterli bilgi vermeyerek diktatörlerin karar sürecini aksatabilirler.
+5. Yöneticilerinden memnun olmayan astlar diktatörlüklere doğru ve yeterli bilgi vermeyerek diktatörlerin karar sürecini aksatabilirler.
 
-6.Sistemin ideolojisi aşınabilir, efsane ve sembolleri sürdürülemez hale gelebilir.
+6. Sistemin ideolojisi aşınabilir, efsane ve sembolleri sürdürülemez hale gelebilir.
 
-7.Kişilerin gerçeği algılayışlarını etkileyen güçlü bir ideoloji varsa, bu ideolojiye katı şekilde bağlılık gerçek hayattaki durumlara ve ihtiyaçlara duyarsızlaşmayı beraberinde getirebilir.
+7. Kişilerin gerçeği algılayışlarını etkileyen güçlü bir ideoloji varsa, bu ideolojiye katı şekilde bağlılık gerçek hayattaki durumlara ve ihtiyaçlara duyarsızlaşmayı beraberinde getirebilir.
 
-8.Bürokrasinin etkinliğini, kapasitesini, aşırı kontrollerini ve düzenlemelerini zayıflatmak sistemin politikalarını ve işleyişini etkisiz hale getirebilir.
+8. Bürokrasinin etkinliğini, kapasitesini, aşırı kontrollerini ve düzenlemelerini zayıflatmak sistemin politikalarını ve işleyişini etkisiz hale getirebilir.
 
 9.İç kurumsal çatışmalar ve kişisel rekabetler ve düşmanlıklar da diktatörlüğün işleyişine zarar verebilir, hatta aksatabilir.
 
@@ -914,25 +908,25 @@ PASİF EYLEM METODLARI16
 
 ### Şiddete Dayanmayan Protesto ve İkna Yöntemleri Resmi ifadeler
 
-1.Konuşmalar
+1. Konuşmalar
 
-2.Muhalefet veya destek mektupları
+2. Muhalefet veya destek mektupları
 
-3.Kurum ve kuruluş bildirileri
+3. Kurum ve kuruluş bildirileri
 
 4.İmzalanmış kamuoyu açıklamaları
 
 5.İtham ve niyet beyanları
 
-6.Grup bazında ya da toplu dilekçe
+6. Grup bazında ya da toplu dilekçe
 
 ### Daha geniş bir kitle ile iletişim
 
-7.Sloganlar, karikatürler ve semboller
+7. Sloganlar, karikatürler ve semboller
 
-8.Afiş, poster ve ortaya konan iletişim
+8. Afiş, poster ve ortaya konan iletişim
 
-9.Bildiriler, broşürler ve kitaplar
+9. Bildiriler, broşürler ve kitaplar
 
 10. Gazete ve dergiler
 
@@ -1478,21 +1472,21 @@ Bütün metin çevrildikten sonra, editör tam metni değerlendirerek çevirmene
 
 ### DAHA FAZLA BİLGİ İÇİN
 
-1.Gene Sharp ve Bruce Jenkins Darbeye Karşı (The Anti-Coup). Boston: The Albert Einstein Institution, 2003.
+1. Gene Sharp ve Bruce Jenkins Darbeye Karşı (The Anti-Coup). Boston: The Albert Einstein Institution, 2003.
 
-2.Gene Sharp Sharps Sözlüğü; Güç ve Direniş: Mücadeleleriyle Sivil Direniş Dili (Sharps Dictionary of Power and Struggle: Language of Civil Resistance in Conflicts by Gene Sharp). New York: Oxford Universtiy Press, 2011.
+2. Gene Sharp Sharps Sözlüğü; Güç ve Direniş: Mücadeleleriyle Sivil Direniş Dili (Sharps Dictionary of Power and Struggle: Language of Civil Resistance in Conflicts by Gene Sharp). New York: Oxford Universtiy Press, 2011.
 
-3.Robert L. Helvey Stratejik Pasif Mücadele Hakkında: Temel İlkeleri Düşünmek (On Strategic Nonviolent Conflict: Thinking About the Fundamentals). Boston: The Albert Einstein Institution, 2002.
+3. Robert L. Helvey Stratejik Pasif Mücadele Hakkında: Temel İlkeleri Düşünmek (On Strategic Nonviolent Conflict: Thinking About the Fundamentals). Boston: The Albert Einstein Institution, 2002.
 
-4.Gene Sharp Pasif Eylem Politikası (3 bölüm) \[The Politics of Nonviolent Action (3 vols.)\]. Boston: Extending Horizons Books, Porter Sargent Publishers, 1973.
+4. Gene Sharp Pasif Eylem Politikası (3 bölüm) \[The Politics of Nonviolent Action (3 vols.)\]. Boston: Extending Horizons Books, Porter Sargent Publishers, 1973.
 
-5.Gene Sharp (Jamila Raqib'ın yardımıyla) Kişisel Kurtuluş (Self-Liberation). Boston: The Albert Einstein Institiution, 2010.
+5. Gene Sharp (Jamila Raqib'ın yardımıyla) Kişisel Kurtuluş (Self-Liberation). Boston: The Albert Einstein Institiution, 2010.
 
-6.Gene Sharp Sosyal Güç ve Politik Özgürlük (Social Power and Political Freedom). Boston: Extending Horizons Books, Porter Sargent Publishers, 1980.
+6. Gene Sharp Sosyal Güç ve Politik Özgürlük (Social Power and Political Freedom). Boston: Extending Horizons Books, Porter Sargent Publishers, 1980.
 
-7.Gene Sharp Gerçeğe Uygun Alternatifler Var (There Are Realistic Alternatives). Boston: The Albert Einstein Institution, 2003.
+7. Gene Sharp Gerçeğe Uygun Alternatifler Var (There Are Realistic Alternatives). Boston: The Albert Einstein Institution, 2003.
 
-8.Gene Sharp Pasif Direnişi Başlatmak: 20. Yüzyıl Uygulamaları ve 21. Yüzyıl Potansiyeli (Waging Nonviolent Struggle: 20th Century Practice and 21st Century Potential). Boston: Extending Horizons Books, Porter Sargent Publishers, 2005.
+8. Gene Sharp Pasif Direnişi Başlatmak: 20. Yüzyıl Uygulamaları ve 21. Yüzyıl Potansiyeli (Waging Nonviolent Struggle: 20th Century Practice and 21st Century Potential). Boston: Extending Horizons Books, Porter Sargent Publishers, 2005.
 
 ### Sipariş bilgisi için iletişim:
 
