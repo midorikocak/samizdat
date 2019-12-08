@@ -377,7 +377,7 @@ Diktatörlüklerin zaafları arasında aşağıdakiler bulunmaktadır:
 
 8. Bürokrasinin etkinliğini, kapasitesini, aşırı kontrollerini ve düzenlemelerini zayıflatmak sistemin politikalarını ve işleyişini etkisiz hale getirebilir.
 
-9.İç kurumsal çatışmalar ve kişisel rekabetler ve düşmanlıklar da diktatörlüğün işleyişine zarar verebilir, hatta aksatabilir.
+9. İç kurumsal çatışmalar ve kişisel rekabetler ve düşmanlıklar da diktatörlüğün işleyişine zarar verebilir, hatta aksatabilir.
 
 10. Entelektüeller ve öğrenciler ortaya çıkan koşullardan, kısıtlamalardan, doktrincilikten ve baskıdan rahatsız olabilirler.
 
