@@ -95,6 +95,11 @@ Buna ilaveten, kitlesel siyasi muhalefet1 son yıllarda Çin, Burma ve Tibet'te 
 **2003** | 89 | 55 | 48 
 **2009** | 89 | 62 | 42 
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 Yine de bu olumlu eğilim, halihazırda zulüm koşulları altında yaşamlarını sürdüren çok sayıda insan tarafından benimsenmiştir. 2008 itibariyle, dünyadaki 6.68 milyonluk nüfusun %34'ü, "Özgür Olmayan"3 olarak belirtilen, olabildiğince kısıtlanmış siyasi hakların ve sivil özgürlüklerin olduğu ülkelerde yaşamaktadır. Özgür Olmayan kategorisindeki 42 ülke, askeri diktatörlüklerden (Burma'da olduğu gibi), geleneksel baskıcı monarşilerden (Suudi Arabistan ve Butan'da olduğu gibi), baskın siyasi partilerden (Çin ve Kuzey Kore'de olduğu gibi), yabancı işgalcilerden (Tibet ve Batı Sahara'da olduğu gibi) oluşan bir yelpaze tarafından yönetiliyor veya bir geçiş döneminde.
 
 
